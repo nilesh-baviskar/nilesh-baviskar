@@ -9,10 +9,10 @@ With a deep understanding of both software development and IT operations, I brid
 
 ### 📌 **Current Focus**
 - **Infrastructure as Code (IaC)** with Terraform, Ansible, and AWS CloudFormation
-- **CI/CD Pipelines** with Jenkins, (GitLab CI, GitHub Actions, and CircleCI)
-- **Cloud Infrastructure** on AWS and GCP
+- **CI/CD Pipelines** with Jenkins, GitHub Actions and GitLab CI 
+- **Cloud Infrastructure** on AWS and GCP, Azure DevOps sprints management
 - **Containerization & Orchestration** with Docker, Kubernetes, Helm
-- **Monitoring & Logging** with Nagios, Grafana, Splunk
+- **Monitoring & Logging** with Prometheus, Grafana, Nagios, Splunk
 - **Security & Compliance** in DevOps and CI/CD pipelines (DevSecOps)
 
 ---
@@ -44,14 +44,20 @@ With a deep understanding of both software development and IT operations, I brid
 - CloudFormation
 
 ### **Monitoring & Logging**
-- Nagios
+- Prometheus
 - Grafana
+- Nagios
 - Splunk
 
 ### **Other Tools & Concepts**
 - Nginx, Apache
 - Vagrant
 - Networking and Load Balancing
+- Opengrok
+- Sonarqube
+- coverity
+- Blackduck hub
+- SSL, TLS certificate management (Procurement, conversion/configurations, singing)
 
 ---
 
